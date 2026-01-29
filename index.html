@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level 1</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="scanlines"></div>
+    <div class="flicker"></div>
+    
+    <div id="menu-screen">
+        <div class="menu-container">
+            <div class="logo-ascii">
+<pre>
+██╗      ██████╗ ███████╗████████╗
+██║     ██╔═══██╗██╔════╝╚══██╔══╝
+██║     ██║   ██║███████╗   ██║   
+██║     ██║   ██║╚════██║   ██║   
+███████╗╚██████╔╝███████║   ██║   
+╚══════╝ ╚═════╝ ╚══════╝   ╚═╝   
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ░░ CHARTS ░░
+</pre>
+            </div>
+            <div class="menu-subtitle">// LEVEL 1 NAVIGATION SYSTEM</div>
+            <div class="menu-info">
+                <p>You are about to enter an infinite architecture.</p>
+                <p>The corridors extend in all directions.</p>
+                <p>There is no exit. There is only further.</p>
+            </div>
+            <button id="start-btn" class="menu-button">[ ENTER ]</button>
+            <div class="menu-warning">
+                <span class="blink">▓</span> SIGNAL UNSTABLE <span class="blink">▓</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="world" class="hidden">
+        <div id="location-header">
+            <div id="logo-small">
+                <span class="logo-text">LOST<span class="logo-divider">//</span>CHARTS</span>
+                <button id="menu-btn" class="back-btn">[ MENU ]</button>
+                <button id="close-btn" class="back-btn">[ X ]</button>
+            </div>
+            <div id="header-right">
+                <span id="coordinates">[ ??? . ??? . ??? ]</span>
+                <span id="depth">DEPTH: UNKNOWN</span>
+            </div>
+        </div>
+        
+        <div id="main-display">
+            <div id="room-content"></div>
+            <div id="ascii-manifestation"></div>
+        </div>
+        
+        <div id="navigation">
+            <div id="nav-options"></div>
+        </div>
+        
+        <div id="terminal-input">
+            <span class="prompt">&gt;</span>
+            <input type="text" id="command-input" autocomplete="off" spellcheck="false" placeholder="...">
+        </div>
+        
+        <div id="whispers"></div>
+    </div>
+    
+    <div id="corner-eye"></div>
+    
+    <script src="world.js"></script>
+</body>
+</html>
