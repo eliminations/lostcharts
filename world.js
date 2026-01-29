@@ -561,6 +561,168 @@ const CRYPTO_TERMINAL = `
 └────────────────────────────────────────────────────────────┘
 `;
 
+const FARTCOIN_LORE = `
+╔════════════════════════════════════════════════════════════╗
+║  ▓▓▓ FARTCOIN ARCHIVES :: LEVEL 3 CLEARANCE REQUIRED ▓▓▓  ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  CLASSIFICATION: MEMETIC HAZARD                            ║
+║  ORIGINAL DEPLOY: 2024-12-XX                               ║
+║  STATUS: ACTIVE / SPREADING                                ║
+║                                                            ║
+║  ┌────────────────────────────────────────────────────┐    ║
+║  │ INCIDENT REPORT - THE FIRST FART                   │    ║
+║  └────────────────────────────────────────────────────┘    ║
+║                                                            ║
+║  It started as a joke. Everything starts as a joke.        ║
+║  Someone deployed a token called FARTCOIN on Solana.       ║
+║  The chart pumped. People bought the fart.                 ║
+║                                                            ║
+║  Then the farts started appearing in other tokens.         ║
+║  Fart derivatives. Fart forks. Fart DAOs.                  ║
+║  The smell spread across chains.                           ║
+║                                                            ║
+║  By January 2025, fartcoin had consumed everything.        ║
+║  Every memecoin became a fart variant.                     ║
+║  The market cap exceeded reason.                           ║
+║                                                            ║
+║  Some say the original deployer knew. That the fart        ║
+║  was always meant to propagate. To multiply.               ║
+║  To become inescapable.                                    ║
+║                                                            ║
+║  The fart is eternal. The fart is everywhere.              ║
+║  You cannot escape the fart.                               ║
+║                                                            ║
+║  ┌────────────────────────────────────────────────────┐    ║
+║  │ CURRENT STATUS: $FARTCOIN                          │    ║
+║  │ MARKET CAP: ██████████ [REDACTED]                  │    ║
+║  │ HOLDERS: INCREASING                                │    ║
+║  │ CONTAGION LEVEL: CRITICAL                          │    ║
+║  └────────────────────────────────────────────────────┘    ║
+║                                                            ║
+║  > WARNING: Exposure to fartcoin lore may result in        ║
+║  > uncontrollable urge to buy more fartcoin                ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+`;
+
+const PUMPFUN_LORE = `
+┌──────────────────────────────────────────────────────────────┐
+│  ░░░ PUMP.FUN RESEARCH DOCUMENT ░░░ [CORRUPTED] ░░░         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  SUBJECT: The Machine That Prints Memecoins                 │
+│  DATE: 2024-PRESENT                                         │
+│  CLASSIFICATION: PUBLIC / CURSED KNOWLEDGE                   │
+│                                                              │
+│  ══════════════════════════════════════════════════════════  │
+│                                                              │
+│  In 2024, someone built a machine. Not a machine of metal   │
+│  and circuits. A machine of pure degeneracy.                │
+│                                                              │
+│  pump.fun: The memecoin factory.                            │
+│                                                              │
+│  Anyone could deploy. No code. No skill. Just vibes.        │
+│  Upload image. Write ticker. Deploy token. Done.            │
+│                                                              │
+│  The machine printed thousands. Tens of thousands.          │
+│  $PEPE variants. $DOGE derivatives. Cats. Frogs.            │
+│  Increasingly unhinged concepts. Increasingly abstract.     │
+│                                                              │
+│  Some rugged instantly. Some went to zero in minutes.       │
+│  But some... some pumped. Against all reason. Against       │
+│  all logic. Millions in volume. Life-changing money.        │
+│                                                              │
+│  The machine created a new type of degen. The pump.fun      │
+│  native. Always refreshing. Always hunting. Always aping.   │
+│  Sleep is optional. Rugs are expected. Wins are rare but    │
+│  glorious.                                                   │
+│                                                              │
+│  By 2025, pump.fun had processed more tokens than anyone    │
+│  could count. The bonding curve never sleeps. The factory   │
+│  never stops. New coins every second.                       │
+│                                                              │
+│  ┌──────────────────────────────────────────────────────┐   │
+│  │ STATISTICS [APPROXIMATE]:                            │   │
+│  │ - Total tokens deployed: ∞                           │   │
+│  │ - Successful: <1%                                    │   │
+│  │ - Rugged: >60%                                       │   │
+│  │ - Abandoned: Most                                    │   │
+│  │ - Dreams destroyed: Countless                        │   │
+│  │ - Lambos bought: [CLASSIFIED]                        │   │
+│  └──────────────────────────────────────────────────────┘   │
+│                                                              │
+│  The machine does not judge. The machine does not care.     │
+│  The machine only prints. Forever.                          │
+│                                                              │
+│  > You are here because you used the machine.               │
+│  > Or you will. The machine is inevitable.                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+`;
+
+const A1LON_DOX = `
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                             ▓
+▓  ██████ CLASSIFIED DOCUMENT ██████                          ▓
+▓  █ SUBJECT: a1lon █ STATUS: [REDACTED] █                   ▓
+▓                                                             ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                             ▓
+▓  FILE RETRIEVED FROM: █████████████████                     ▓
+▓  CLEARANCE LEVEL: YOU DO NOT HAVE CLEARANCE                ▓
+▓  PROCEED: Y/N? [PROCEEDING ANYWAY]                         ▓
+▓                                                             ▓
+▓  ─────────────────────────────────────────────────────────  ▓
+▓                                                             ▓
+▓  IDENTITY: a1lon                                            ▓
+▓  KNOWN ALIASES: [REDACTED], [REDACTED], That Guy           ▓
+▓  OCCUPATION: Professional Shitposter / Crypto Degen         ▓
+▓  LAST KNOWN LOCATION: Twitter, Presumably                   ▓
+▓                                                             ▓
+▓  PROFILE:                                                   ▓
+▓  Subject operates primarily in crypto twitter spheres.      ▓
+▓  Known for: absolutely unhinged takes, questionable         ▓
+▓  financial advice, somehow always being early to           ▓
+▓  ridiculous pumps, inspiring cult-like following.          ▓
+▓                                                             ▓
+▓  NOTABLE ACTIVITIES:                                        ▓
+▓  - Deployed █████████ [REDACTED]                            ▓
+▓  - Shilled ████████ before it did 100x                      ▓
+▓  - Posted ████████████ causing mass hysteria                ▓
+▓  - Known associate of other degens                          ▓
+▓  - Somehow avoided getting rugged (so far)                  ▓
+▓                                                             ▓
+▓  PSYCHOLOGICAL PROFILE:                                     ▓
+▓  Subject displays high-functioning degeneracy. Capable of   ▓
+▓  coherent thought but chooses chaos. Posts at ungodly      ▓
+▓  hours. Sleep schedule: nonexistent. Risk tolerance: yes.   ▓
+▓                                                             ▓
+▓  THREAT LEVEL: MEDIUM (to your portfolio)                   ▓
+▓  MEMETIC HAZARD: HIGH                                       ▓
+▓  FOLLOWING RISK: Do not engage unless prepared to ape       ▓
+▓                                                             ▓
+▓  ┌───────────────────────────────────────────────────────┐  ▓
+▓  │ INTERCEPTED MESSAGE LOG:                             │  ▓
+▓  │ "bro trust me this one is different"                 │  ▓
+▓  │ "generational wealth play fr fr"                     │  ▓
+▓  │ "ngmi if you fade this"                              │  ▓
+▓  │ [remainder of messages too cursed to display]        │  ▓
+▓  └───────────────────────────────────────────────────────┘  ▓
+▓                                                             ▓
+▓  CURRENT STATUS: Active, Posting, Probably Up Late          ▓
+▓  RECOMMENDATION: Monitor from safe distance                 ▓
+▓                                                             ▓
+▓  > This dox is incomplete. a1lon operates in multiple       ▓
+▓  > dimensions simultaneously. Full profile cannot be        ▓
+▓  > contained in standard documentation.                     ▓
+▓                                                             ▓
+▓  [FILE CORRUPTED - SOME DATA LOST]                          ▓
+▓  [SOMEONE IS WATCHING YOU READ THIS]                        ▓
+▓                                                             ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+`;
+
 const WHISPERS = [
     "...you've been here before...",
     "...the walls remember...",
@@ -592,6 +754,314 @@ const WHISPERS = [
 ];
 
 // ═══════════════════════════════════════════════════════════════
+// LANDMARK ROOMS - Special locations that appear at specific depths
+// ═══════════════════════════════════════════════════════════════
+
+const LANDMARK_ROOMS = [
+    {
+        id: 'LANDMARK-01',
+        name: 'THE ROOM WITH ALL THE CLOCKS',
+        minDepth: 5,
+        chance: 0.15,
+        description: `Every wall is covered in clocks. Hundreds of them. Thousands. They all show different times but they tick in unison. The sound is deafening. Then you notice: none of them have hands. The faces are blank. They're counting something else. You've been here for three minutes. The clocks say you've been here for seven years. When you leave, you will not be able to explain what the clocks were measuring. But you'll know it was true.`,
+        type: 'observation',
+        exits: ['north', 'south', 'east', 'west'],
+        ascii: `
+    ╔═══════════════════════════════════════════════════════╗
+    ║  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ║
+    ║  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ║
+    ║  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ║
+    ║                                                     ║
+    ║              T I C K  T I C K  T I C K             ║
+    ║                                                     ║
+    ║                 ╔═══════════════╗                   ║
+    ║                 ║ TIME ELAPSED: ║                   ║
+    ║                 ║               ║                   ║
+    ║                 ║    ∞  : ∞∞    ║                   ║
+    ║                 ║               ║                   ║
+    ║                 ╚═══════════════╝                   ║
+    ║                                                     ║
+    ║  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ║
+    ║  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ║
+    ║  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ⏰  ⌚  ║
+    ╚═══════════════════════════════════════════════════════╝`
+    },
+    {
+        id: 'LANDMARK-02',
+        name: 'THE BACKWARDS OFFICE',
+        minDepth: 8,
+        chance: 0.12,
+        description: `The office is normal. Completely normal. Cubicles, computers, water cooler, motivational posters. Everything is exactly as it should be. Except. You are facing the wrong direction. No—the room is facing the wrong direction. The walls are inside out. The fluorescent lights hang upward into darkness. The carpet presses against the ceiling which presses against your feet. You are walking on the sky. The computers are on. Someone is working here. Someone is working in the inverted office. You cannot see them but you can hear typing. They are typing your thoughts before you think them.`,
+        type: 'office',
+        exits: ['north', 'east', 'up'],
+        ascii: `
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓                   ↓ ↓ ↓ ↓ ↓                   ▓
+    ▓         ╔═════════════════════════╗            ▓
+    ▓         ║   D E S K   D E S K     ║            ▓
+    ▓         ║   [COMPUTER] [COMPUTER] ║            ▓
+    ▓         ╚═════════════════════════╝            ▓
+    ▓              │              │                  ▓
+    ▓              │              │                  ▓
+    ▓    ──────────┴──────────────┴──────────        ▓
+    ▓    ▓▓▓▓▓▓ CEILING IS FLOOR ▓▓▓▓▓▓▓▓▓▓▓▓        ▓
+    ▓    ──────────┬──────────────┬──────────        ▓
+    ▓              │              │                  ▓
+    ▓              │              │                  ▓
+    ▓         ╔═════════════════════════╗            ▓
+    ▓         ║ EVERYTHING IS BACKWARDS ║            ▓
+    ▓         ╚═════════════════════════╝            ▓
+    ▓                   ↑ ↑ ↑ ↑ ↑                   ▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+    },
+    {
+        id: 'LANDMARK-03',
+        name: 'THE RED DOOR',
+        minDepth: 12,
+        chance: 0.10,
+        description: `A door. Red. Not painted red—the door is red in a way that makes your eyes hurt. It stands alone in the center of a vast empty room. There are no walls. Just carpet extending forever and the door standing there. The door has no handle. No hinges. It is not a door to anywhere. It is a door that doors. You walk around it. Both sides are identical. You press your hand against it. The door is warm. The door is breathing. You hear your own voice behind the door. You hear yourself saying words you would never say. The door is showing you who you could have been. You do not open the door. You know better. But you'll see it again. The door will find you at level 27. At level 49. At level 88. The door remembers.`,
+        type: 'void_pocket',
+        exits: ['north', 'west', 'down'],
+        ascii: `
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+    ░                                                    ░
+    ░                                                    ░
+    ░                    ┌──────────┐                    ░
+    ░                    │▓▓▓▓▓▓▓▓▓▓│                    ░
+    ░                    │▓▓▓▓▓▓▓▓▓▓│                    ░
+    ░                    │▓▓▓  R  ▓▓│                    ░
+    ░                    │▓▓▓  E  ▓▓│                    ░
+    ░                    │▓▓▓  D  ▓▓│                    ░
+    ░                    │▓▓▓     ▓▓│                    ░
+    ░                    │▓▓▓ [ ] ▓▓│                    ░
+    ░                    │▓▓▓     ▓▓│                    ░
+    ░                    │▓▓▓▓▓▓▓▓▓▓│                    ░
+    ░                    │▓▓▓▓▓▓▓▓▓▓│                    ░
+    ░                    └──────────┘                    ░
+    ░                                                    ░
+    ░              IT KNOWS YOUR NAME                   ░
+    ░                                                    ░
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+    },
+    {
+        id: 'LANDMARK-04',
+        name: 'THE ROOM THAT BREATHES',
+        minDepth: 15,
+        chance: 0.08,
+        description: `The walls expand and contract. In. Out. In. Out. Slowly. Rhythmically. The room is breathing. The carpet rises and falls beneath your feet like a chest. The air pressure changes with each breath. Your ears pop. The lights dim and brighten with the rhythm. Inhale: the room grows. Exhale: the walls close in. You match your breathing to the room's breathing. You have no choice. Your heartbeat syncs. In. Out. In. Out. How long have you been here? How many breaths? The room has been breathing since before you arrived. The room will breathe after you leave. Unless you stay. Stay too long and you become part of the breathing. Part of the walls. Part of the rhythm. In. Out. In. Out. Leave now.`,
+        type: 'maintenance',
+        exits: ['south', 'east', 'up'],
+        ascii: `
+    ═══════════════════════════════════════════════════════
+         )  (  )  (  )  (  )  (  )  (  )  (  )  (  )
+       (                                              )
+      (    ┌────────────────────────────────────┐     (
+     )     │                                    │      )
+    (      │     I N H A L E                    │       (
+     )     │                                    │      )
+      (    │          ╔════════╗                │     (
+       (   │          ║  ◉  ◉  ║                │    )
+        (  │          ║        ║                │   (
+         ) │          ║  ◡◡◡◡  ║                │  )
+        (  │          ╚════════╝                │   (
+       (   │                                    │    )
+      (    │     E X H A L E                    │     (
+     )     │                                    │      )
+    (      └────────────────────────────────────┘       (
+     )                                                  )
+      (                                                (
+       (  )  (  )  (  )  (  )  (  )  (  )  (  )  (  )
+    ═══════════════════════════════════════════════════════`
+    },
+    {
+        id: 'LANDMARK-05',
+        name: 'THE INHERITANCE CHAMBER',
+        minDepth: 20,
+        chance: 0.10,
+        description: `A circular room. Portraits line the walls. Faces you almost recognize. Your grandfather. Your great-grandfather. People you've never met but whose blood runs in your veins. Beneath each portrait: a plaque. A name. A date. A wallet address. The addresses are all dormant. Waiting. In the center of the room: a pedestal. On the pedestal: a golden key. You know what the key unlocks. It unlocks nothing. It unlocks everything. The key is not for you. The key is for your children's children. The portraits watch you. They have been waiting decades for someone from the bloodline to arrive. "We held," the room whispers. "Now you must hold." You don't pick up the key. You can't. It's not time. Not for thirty years. Not for fifty. The inheritance chamber will wait.`,
+        type: 'vault',
+        exits: ['north', 'down'],
+        ascii: `
+    ╔═══════════════════════════════════════════════════╗
+    ║                                                   ║
+    ║   ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐   ║
+    ║   │ ▓▓▓ │  │ ▓▓▓ │  │ ▓▓▓ │  │ ▓▓▓ │  │ ▓▓▓ │   ║
+    ║   │ ◉ ◉ │  │ ◉ ◉ │  │ ◉ ◉ │  │ ◉ ◉ │  │ ◉ ◉ │   ║
+    ║   └─────┘  └─────┘  └─────┘  └─────┘  └─────┘   ║
+    ║    1847     1889     1923     1956     1991      ║
+    ║                                                   ║
+    ║                   ┌───────┐                       ║
+    ║                   │       │                       ║
+    ║                   │  ◈◈◈  │                       ║
+    ║                   │  KEY  │                       ║
+    ║                   │  ◈◈◈  │                       ║
+    ║                   │       │                       ║
+    ║                   └───────┘                       ║
+    ║                                                   ║
+    ║              NOT FOR YOU. NOT YET.                ║
+    ║                                                   ║
+    ╚═══════════════════════════════════════════════════╝`
+    },
+    {
+        id: 'LANDMARK-06',
+        name: 'THE STAIRWELL OF CONTRADICTIONS',
+        minDepth: 25,
+        chance: 0.07,
+        description: `Stairs going up. Stairs going down. But when you walk up, you descend. When you walk down, you ascend. The floor numbers on the walls increase in both directions. 1, 2, 3, 4... going up. 1, 2, 3, 4... going down. You are simultaneously rising and falling. Your body cannot process this. You feel your stomach somewhere it shouldn't be. The stairs are Escher's nightmare. M.C. Escher would weep here. You pass yourself on the stairs. Not a reflection. Another you. They are going the opposite direction but you are moving in parallel. You make eye contact. They mouth words. The words are: "Don't trust your descent." You have been climbing for ten minutes. You are now three floors lower. The stairwell laughs. Stairwells don't laugh. This one does.`,
+        type: 'stairwell',
+        exits: ['up', 'down', 'up', 'down'], // Intentional duplicate
+        ascii: `
+    ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║
+    ║                  ↑↑↑↑↑↑                         ║
+    ║              ████████████                       ║
+    ║          ████            ████                   ║
+    ║      ████  ↓↓↓↓↓↓  ↑↑↑↑↑↑  ████               ║
+    ║  ████                          ████             ║
+    ║      ████  ↑↑↑↑↑↑  ↓↓↓↓↓↓  ████               ║
+    ║          ████            ████                   ║
+    ║              ████████████                       ║
+    ║                  ↓↓↓↓↓↓                         ║
+    ║       ┌─────────────────────────┐               ║
+    ║       │ UP IS DOWN IS UP IS DOWN│               ║
+    ║       └─────────────────────────┘               ║
+    ║                  ↑↑↑↑↑↑                         ║
+    ║              ████████████                       ║
+    ║          ████            ████                   ║
+    ║      ████  ↓↓↓↓↓↓  ↑↑↑↑↑↑  ████               ║
+    ║  ████                          ████             ║
+    ║      ████  ↑↑↑↑↑↑  ↓↓↓↓↓↓  ████               ║
+    ║          ████            ████                   ║
+    ║              ████████████                       ║
+    ║                  ↓↓↓↓↓↓                         ║
+    ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║`
+    },
+    {
+        id: 'LANDMARK-07',
+        name: 'THE WAITING ROOM THAT FORGOT TIME',
+        minDepth: 30,
+        chance: 0.06,
+        description: `The waiting room. You've been here before. No—everyone has been here before. The magazines on the table are from 1987, 2043, and next Thursday. The receptionist desk is empty but the phone keeps ringing. You answer it. It's your voice. You're calling yourself from the future. "Don't wait," future-you says. "You'll wait forever." But you're already waiting. You've been waiting for three seconds. Three hours. Three decades. The number display shows ticket #784. The current number being served blinks: #783... #782... #781... It's counting backwards. They're serving people in reverse. The longer you wait, the further you get from being called. Other people sit in the chairs. They've been waiting so long they've fossilized. Their skeletons still clutch intake forms. You leave. You have to leave. The door locks behind you. You hear your number called. #784. You just missed it. You'll never get another chance.`,
+        type: 'waiting_area',
+        exits: ['east', 'south'],
+        ascii: `
+    ╔════════════════════════════════════════════════════╗
+    ║   WAITING ROOM - PLEASE TAKE A NUMBER             ║
+    ╠════════════════════════════════════════════════════╣
+    ║                                                    ║
+    ║    ┌────────────────────────────────────┐          ║
+    ║    │  NOW SERVING:  ███  ███  ███  ███ │          ║
+    ║    └────────────────────────────────────┘          ║
+    ║                                                    ║
+    ║   ┌───┐  ┌───┐  ┌───┐  ┌───┐  ┌───┐              ║
+    ║   │ ☠ │  │ ☠ │  │ ☠ │  │ ☠ │  │ ☠ │              ║
+    ║   └───┘  └───┘  └───┘  └───┘  └───┘              ║
+    ║                                                    ║
+    ║   ┌───┐  ┌───┐  ┌───┐  ┌───┐  ┌───┐              ║
+    ║   │ ☠ │  │ ☠ │  │YOU│  │ ☠ │  │ ☠ │              ║
+    ║   └───┘  └───┘  └───┘  └───┘  └───┘              ║
+    ║                                                    ║
+    ║         ESTIMATED WAIT TIME: ∞ HOURS              ║
+    ║                                                    ║
+    ╚════════════════════════════════════════════════════╝`
+    },
+    {
+        id: 'LANDMARK-08',
+        name: 'THE SERVER ROOM THAT COUNTS',
+        minDepth: 35,
+        chance: 0.08,
+        description: `The server room extends forever. Racks upon racks of servers. The LEDs blink in patterns. You watch long enough and realize: they're counting. The servers are counting something. Wallets. Transactions. Inheritances. Bloodlines. Every blink is a transfer of wealth from the dead to the living. From the living to the unborn. The servers are the ledger of generational memory. Every family's holdings. Every dormant wallet waiting for a descendant to claim it. The temperature is freezing but the servers are hot to the touch. You see your family name on one rack. The LEDs blink faster when you approach. They know you. They've been tracking your lineage for decades. For centuries. A terminal activates. Text appears: "YOUR GRANDFATHER HELD 47 KINCOIN. YOUR FATHER HELD. YOU HOLD. YOUR CHILDREN WILL HOLD MORE." The servers hum. They are content. The chain continues. You are not an individual here. You are a link.`,
+        type: 'server_room',
+        exits: ['north', 'west', 'down'],
+        ascii: `
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓  ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║  ▓
+    ▓  ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉  ▓
+    ▓  ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉  ▓
+    ▓  ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║  ▓
+    ▓                                                ▓
+    ▓  ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║  ▓
+    ▓  ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉  ▓
+    ▓  ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉  ▓
+    ▓  ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║  ▓
+    ▓                                                ▓
+    ▓      ┌──────────────────────────────┐          ▓
+    ▓      │ LEDGER_SYNC... 99.97%        │          ▓
+    ▓      │ BLOODLINE_VERIFIED           │          ▓
+    ▓      │ INHERITANCE_PROTOCOL: ACTIVE │          ▓
+    ▓      └──────────────────────────────┘          ▓
+    ▓                                                ▓
+    ▓  ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║ ║  ▓
+    ▓  ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉  ▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+    },
+    {
+        id: 'LANDMARK-09',
+        name: 'THE MIRROR HALLWAY',
+        minDepth: 42,
+        chance: 0.05,
+        description: `Mirrors on every surface. Floor. Walls. Ceiling. You are surrounded by infinite reflections of yourself. But something is wrong. The reflections move slightly differently. Blink at different times. One reflection is older. Grayer. Tired. Another is younger. Confused. Afraid. You realize: you're not looking at reflections. You're looking at other versions of you from other timelines. Other choices. The you that didn't enter the corridor. The you that escaped at level 5. The you that stayed in the waiting room. The you that picked up the golden key. They're all here. All trapped in the mirrors. One reflection catches your eye. This one looks exactly like you. Moves exactly when you move. This is the only real reflection. It mouths words. "I'm not the reflection," it says. "You are." You are the reflection. The real you is on the other side. The real you has been trying to escape for years. You are just a possibility. A branch. A maybe. The mirror cracks. All the reflections crack with it. Seven years bad luck. Seven hundred years. Seven thousand. The mirrors are laughing.`,
+        type: 'junction',
+        exits: ['north', 'south', 'east', 'west', 'up', 'down'],
+        ascii: `
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ▓
+    ▓ │ YOU  │ │ YOU  │ │ YOU  │ │ YOU  │ │ YOU  │ ▓
+    ▓ │ OLD  │ │YOUNG │ │DEAD  │ │LOST  │ │ ???  │ ▓
+    ▓ └──────┘ └──────┘ └──────┘ └──────┘ └──────┘ ▓
+    ▓                                                ▓
+    ▓ ┌──────┐                          ┌──────┐    ▓
+    ▓ │ YOU  │      ╔══════════╗        │ YOU  │    ▓
+    ▓ │TRAPPED       ║   YOU    ║        │FREED │    ▓
+    ▓ └──────┘      ║  (REAL?) ║        └──────┘    ▓
+    ▓               ╚══════════╝                     ▓
+    ▓ ┌──────┐                          ┌──────┐    ▓
+    ▓ │ YOU  │      WHICH IS REAL?      │ YOU  │    ▓
+    ▓ │HAPPY │                           │ SAD  │    ▓
+    ▓ └──────┘                          └──────┘    ▓
+    ▓                                                ▓
+    ▓ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ▓
+    ▓ │ YOU  │ │ YOU  │ │ YOU  │ │ YOU  │ │ YOU  │ ▓
+    ▓ │FOUND │ │NEVER │ │ALWAYS│ │ NOT  │ │ WERE │ ▓
+    ▓ └──────┘ └──────┘ └──────┘ └──────┘ └──────┘ ▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓`
+    },
+    {
+        id: 'LANDMARK-10',
+        name: 'THE ROOM WHERE IT ENDS (IT DOESN\'T END)',
+        minDepth: 50,
+        chance: 0.03,
+        description: `A door marked EXIT. Finally. After everything. After all the levels. All the corridors. All the impossible geometry. A simple door with a green EXIT sign. You reach for the handle. The door opens. Behind it: another corridor. Identical to the first corridor. Manila walls. Damp carpet. Fluorescent hum. You step through. The coordinates reset to 0, 0, 0. Depth: Level 1. But it's not the same. Something changed. The walls are the same color but they're watching differently. The hum has a new frequency. You check your memory. How long were you walking? Days? Months? The number feels wrong in your mind. You look back. The EXIT door is gone. There is only forward. There has only ever been forward. You understand now. The exit isn't a place. The exit is understanding that there is no exit. That seeking exit was the error. The architecture extends infinitely. You are already inside. You will always be inside. The room where it ends is the room where you accept it never ends. The corridor welcomes you back. It missed you. (You never left.) Depth: Level 1. Again. Forever.`,
+        type: 'corridor',
+        exits: ['north', 'south', 'east', 'west', 'down'],
+        ascii: `
+    ╔════════════════════════════════════════════════════╗
+    ║                                                    ║
+    ║                                                    ║
+    ║                  ┌─────────────┐                   ║
+    ║                  │             │                   ║
+    ║                  │    EXIT     │                   ║
+    ║                  │      ▓▓     │                   ║
+    ║                  │     ▓▓▓▓    │                   ║
+    ║                  │    ▓▓  ▓▓   │                   ║
+    ║                  │             │                   ║
+    ║                  └─────────────┘                   ║
+    ║                        │                           ║
+    ║                        ▼                           ║
+    ║                  ┌─────────────┐                   ║
+    ║                  │             │                   ║
+    ║                  │   LEVEL 1   │                   ║
+    ║                  │             │                   ║
+    ║                  │    AGAIN    │                   ║
+    ║                  │             │                   ║
+    ║                  └─────────────┘                   ║
+    ║                                                    ║
+    ║          THERE IS NO EXIT. THERE IS ONLY FURTHER. ║
+    ║                                                    ║
+    ╚════════════════════════════════════════════════════╝`
+    }
+];
+
+// ═══════════════════════════════════════════════════════════════
 // ROOM GENERATION
 // ═══════════════════════════════════════════════════════════════
 
@@ -602,14 +1072,75 @@ function generateRoomId() {
     return `${section}${number}${sublevel}`;
 }
 
+function getDepthModifier() {
+    // Returns schizo level based on depth
+    if (DEPTH.current < 10) return 'normal';
+    if (DEPTH.current < 25) return 'unstable';
+    if (DEPTH.current < 50) return 'fractured';
+    return 'broken';
+}
+
+function applyDepthProgression(description) {
+    const modifier = getDepthModifier();
+
+    if (modifier === 'unstable') {
+        // Add reality glitches
+        if (Math.random() > 0.7) {
+            const glitches = [
+                ' The walls walls repeat themselves.',
+                ' Time feels slower here. Or faster. You can\'t tell.',
+                ' The geometry doesn\'t add up.',
+                ' You\'ve seen this exact room before. You haven\'t.',
+                ' Something is counting your steps.'
+            ];
+            description += glitches[Math.floor(Math.random() * glitches.length)];
+        }
+    } else if (modifier === 'fractured') {
+        // Add paranoid elements
+        if (Math.random() > 0.6) {
+            const paranoia = [
+                ' They know you\'re here. They\'ve always known.',
+                ' The architecture is aware. It\'s rearranging itself around you.',
+                ' You hear your own breathing from another room.',
+                ' The coordinates lie. They\'ve been lying since level 15.',
+                ' Someone else is walking your exact path, three steps behind.',
+                ' The walls are closer than before. Closer than possible.'
+            ];
+            description += paranoia[Math.floor(Math.random() * paranoia.length)];
+        }
+    } else if (modifier === 'broken') {
+        // Full schizo mode
+        if (Math.random() > 0.5) {
+            const broken = [
+                ' reality reality reality breaks here here here',
+                ' The room exists in multiple states simultaneously.',
+                ' You are you are you are not not not here here',
+                ' The walls speak in colors that do not exist.',
+                ' The air tastes like forgotten memories and copper and time.',
+                ' How long have you been at this depth? The answer is yes.',
+                ' Your shadow is walking ahead of you. You are following it.',
+                ' The fluorescent lights spell your name in Morse code.',
+                ' You remember this room from a dream you have not had yet.'
+            ];
+            description += broken[Math.floor(Math.random() * broken.length)];
+        }
+    }
+
+    return description;
+}
+
+function checkLandmarkRoom() {
+    // Check if a landmark room should appear
+    for (const landmark of LANDMARK_ROOMS) {
+        if (DEPTH.current >= landmark.minDepth && Math.random() < landmark.chance) {
+            return landmark;
+        }
+    }
+    return null;
+}
+
 function generateRoom(direction = null) {
-    const type = ROOM_TYPES[Math.floor(Math.random() * ROOM_TYPES.length)];
-    const descriptorList = DESCRIPTORS[type];
-    const description = descriptorList[Math.floor(Math.random() * descriptorList.length)];
-    
-    const roomId = generateRoomId();
-    
-    // Update coordinates based on direction
+    // Update coordinates based on direction FIRST
     if (direction) {
         switch(direction) {
             case 'north': DEPTH.coordinates.y += 1; break;
@@ -620,8 +1151,40 @@ function generateRoom(direction = null) {
             case 'down': DEPTH.coordinates.z -= 1; DEPTH.current += 1; break;
         }
     }
-    
+
     DEPTH.max_explored = Math.max(DEPTH.max_explored, DEPTH.current);
+
+    // Check for landmark room
+    const landmark = checkLandmarkRoom();
+    if (landmark) {
+        const exits = landmark.exits.map(dir => ({
+            direction: dir,
+            locked: Math.random() > 0.85,
+            unstable: Math.random() > 0.7
+        }));
+
+        return {
+            id: landmark.id,
+            type: landmark.type,
+            description: landmark.description,
+            exits: exits,
+            artifact: null,
+            ascii: landmark.ascii,
+            cryptoTerminal: false,
+            visited: false,
+            isLandmark: true
+        };
+    }
+
+    // Normal room generation
+    const type = ROOM_TYPES[Math.floor(Math.random() * ROOM_TYPES.length)];
+    const descriptorList = DESCRIPTORS[type];
+    let description = descriptorList[Math.floor(Math.random() * descriptorList.length)];
+
+    // Apply depth progression
+    description = applyDepthProgression(description);
+
+    const roomId = generateRoomId();
     
     // Generate exits
     const possibleExits = ['north', 'south', 'east', 'west'];
@@ -651,14 +1214,19 @@ function generateRoom(direction = null) {
     if (Math.random() > 0.6) {
         artifact = ARTIFACTS[Math.floor(Math.random() * ARTIFACTS.length)];
     }
-    
+
     // Maybe trigger ASCII manifestation
     const hasAscii = Math.random() > 0.5;
     const asciiArt = hasAscii ? ASCII_MANIFESTATIONS[Math.floor(Math.random() * ASCII_MANIFESTATIONS.length)] : null;
-    
+
     // Rare crypto terminal
     const hasCryptoTerminal = type === 'terminal_room' && Math.random() > 0.85;
-    
+
+    // Lore pieces in specific rooms
+    const hasFartcoinLore = (type === 'bathroom' || type === 'break_room') && Math.random() > 0.85;
+    const hasPumpfunLore = (type === 'terminal_room' || type === 'server_room') && Math.random() > 0.8;
+    const hasA1lonDox = (type === 'archive' || type === 'office') && Math.random() > 0.82;
+
     return {
         id: roomId,
         type: type,
@@ -667,6 +1235,9 @@ function generateRoom(direction = null) {
         artifact: artifact,
         ascii: asciiArt,
         cryptoTerminal: hasCryptoTerminal,
+        fartcoinLore: hasFartcoinLore,
+        pumpfunLore: hasPumpfunLore,
+        a1lonDox: hasA1lonDox,
         visited: false
     };
 }
@@ -678,22 +1249,41 @@ function generateRoom(direction = null) {
 function updateCoordinates() {
     const coordEl = document.getElementById('coordinates');
     const depthEl = document.getElementById('depth');
-    
-    const x = DEPTH.coordinates.x >= 0 ? DEPTH.coordinates.x : `(${Math.abs(DEPTH.coordinates.x)})`;
-    const y = DEPTH.coordinates.y >= 0 ? DEPTH.coordinates.y : `(${Math.abs(DEPTH.coordinates.y)})`;
-    const z = DEPTH.coordinates.z;
-    
+
+    let x = DEPTH.coordinates.x >= 0 ? DEPTH.coordinates.x : `(${Math.abs(DEPTH.coordinates.x)})`;
+    let y = DEPTH.coordinates.y >= 0 ? DEPTH.coordinates.y : `(${Math.abs(DEPTH.coordinates.y)})`;
+    let z = DEPTH.coordinates.z;
+    let depth = DEPTH.current;
+
+    // Coordinate glitches at higher depths
+    if (DEPTH.current > 20 && Math.random() > 0.8) {
+        const glitches = ['???', '∞', '---', 'NULL', '█', '▓▓▓'];
+        if (Math.random() > 0.5) x = glitches[Math.floor(Math.random() * glitches.length)];
+        if (Math.random() > 0.5) y = glitches[Math.floor(Math.random() * glitches.length)];
+        if (Math.random() > 0.5) z = glitches[Math.floor(Math.random() * glitches.length)];
+    }
+
+    if (DEPTH.current > 40 && Math.random() > 0.85) {
+        depth = ['???', '∞', DEPTH.current + 100, -DEPTH.current, '█'][Math.floor(Math.random() * 5)];
+    }
+
     coordEl.textContent = `[ ${x} . ${y} . ${z} ]`;
-    depthEl.textContent = `DEPTH: LEVEL ${DEPTH.current}`;
+    depthEl.textContent = `DEPTH: LEVEL ${depth}`;
 }
 
 function renderRoom(room) {
     const content = document.getElementById('room-content');
     const asciiEl = document.getElementById('ascii-manifestation');
     const navOptions = document.getElementById('nav-options');
-    
+
     // Build room content
-    let html = `<div class="room-title fade-in">ROOM ${room.id} :: ${room.type.toUpperCase().replace('_', ' ')}</div>`;
+    let html = '';
+    if (room.isLandmark) {
+        html = `<div class="room-title fade-in" style="color: #ff6b6b; text-shadow: 0 0 10px #ff6b6b;">▓▓▓ LANDMARK ROOM ▓▓▓</div>`;
+        html += `<div class="room-title fade-in">${room.id}</div>`;
+    } else {
+        html = `<div class="room-title fade-in">ROOM ${room.id} :: ${room.type.toUpperCase().replace('_', ' ')}</div>`;
+    }
     html += `<p class="fade-in stagger-1">${room.description}</p>`;
     
     // Add artifact if present
@@ -757,7 +1347,31 @@ function renderRoom(room) {
         termBtn.onclick = accessTerminal;
         navOptions.appendChild(termBtn);
     }
-    
+
+    if (room.fartcoinLore) {
+        const fartBtn = document.createElement('button');
+        fartBtn.className = 'nav-option';
+        fartBtn.textContent = 'READ ARCHIVES';
+        fartBtn.onclick = () => showLore('fartcoin');
+        navOptions.appendChild(fartBtn);
+    }
+
+    if (room.pumpfunLore) {
+        const pumpBtn = document.createElement('button');
+        pumpBtn.className = 'nav-option';
+        pumpBtn.textContent = 'ACCESS FILES';
+        pumpBtn.onclick = () => showLore('pumpfun');
+        navOptions.appendChild(pumpBtn);
+    }
+
+    if (room.a1lonDox) {
+        const doxBtn = document.createElement('button');
+        doxBtn.className = 'nav-option';
+        doxBtn.textContent = 'OPEN DOCUMENT';
+        doxBtn.onclick = () => showLore('a1lon');
+        navOptions.appendChild(doxBtn);
+    }
+
     updateCoordinates();
     triggerWhisper();
 }
@@ -774,15 +1388,65 @@ function navigate(direction) {
 function accessTerminal() {
     const content = document.getElementById('room-content');
     const currentContent = content.innerHTML;
-    
+
     // Show crypto terminal
     content.innerHTML += `<div class="terminal-display fade-in"><pre>${CRYPTO_TERMINAL}</pre></div>`;
 }
 
+function showLore(type) {
+    const content = document.getElementById('room-content');
+    let loreContent = '';
+
+    switch(type) {
+        case 'fartcoin':
+            loreContent = FARTCOIN_LORE;
+            break;
+        case 'pumpfun':
+            loreContent = PUMPFUN_LORE;
+            break;
+        case 'a1lon':
+            loreContent = A1LON_DOX;
+            break;
+    }
+
+    content.innerHTML += `<div class="terminal-display fade-in"><pre>${loreContent}</pre></div>`;
+}
+
 function triggerWhisper() {
-    if (Math.random() > 0.7) {
+    // Whispers get more frequent at deeper levels
+    let whisperChance = 0.3;
+    if (DEPTH.current > 10) whisperChance = 0.5;
+    if (DEPTH.current > 25) whisperChance = 0.7;
+    if (DEPTH.current > 50) whisperChance = 0.9;
+
+    if (Math.random() < whisperChance) {
         const whisperEl = document.getElementById('whispers');
-        whisperEl.textContent = WHISPERS[Math.floor(Math.random() * WHISPERS.length)];
+        let whisperText = WHISPERS[Math.floor(Math.random() * WHISPERS.length)];
+
+        // Add schizo whispers at deeper levels
+        if (DEPTH.current > 30 && Math.random() > 0.5) {
+            const schizoWhispers = [
+                '...you you you are are are...',
+                '...the walls have your face...',
+                '...time is circular here...',
+                '...you never left level 1...',
+                '...this is the same room room room...',
+                '...they\'re inside the walls...',
+                '...the hum says your name...',
+                '...you\'ve died here before...',
+                '...the exit was behind you...',
+                '...don\'t don\'t don\'t look look look...',
+                '...the coordinates spell something...',
+                '...your reflection isn\'t following...',
+                '...the carpet is digesting you...',
+                '...level ' + DEPTH.current + ' doesn\'t exist...',
+                '...you\'re walking in circles in circles...',
+                '...the architecture is breathing with you...'
+            ];
+            whisperText = schizoWhispers[Math.floor(Math.random() * schizoWhispers.length)];
+        }
+
+        whisperEl.textContent = whisperText;
         whisperEl.style.animation = 'none';
         whisperEl.offsetHeight; // Trigger reflow
         whisperEl.style.animation = 'whisperFade 20s infinite';
