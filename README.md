@@ -4,9 +4,17 @@ you shouldnt be here
 
 ## what is this
 
+a procedural backrooms exploration experience. infinite liminal architecture. level 1. the mono-yellow corridors. you know the ones. youve seen them in your dreams. youve seen them in that one meme. youve seen them when you noclipped through reality that one time you dont like to talk about.
+
 its not a game. games have endings. this doesnt end. the corridors keep generating. ive been walking for three hours and the coordinates just keep changing. x y z. depth increasing. the fluorescent lights hum at frequencies that shouldnt exist.
 
 the walls are the color of old manila folders. the carpet is damp. it absorbs sound in a way that feels intentional. you cant hear your own footsteps after a while. just the lights. always the lights.
+
+## the backrooms
+
+you know the backrooms right? that creepypasta? that liminal space phenomenon? level 0 is the yellow rooms. level 1 is the industrial maze. level 2 is the pipes. this is level 1. procedurally generated. infinite. you can explore forever. or until the browser tab crashes. whichever comes first.
+
+inspired by that 4chan post. inspired by kane pixels. inspired by every empty parking garage and hotel hallway youve ever walked through at 3am wondering if reality was rendering correctly.
 
 ## how do i leave
 
@@ -22,23 +30,28 @@ type commands into the terminal. `look`. `examine`. `go north`. `go deeper`. the
 - ascii manifestations (sometimes things appear in the rooms. geometric shapes. they watch)
 - coordinate tracking (x y z. the numbers dont make sense after depth 50)
 - whisper system (do you see the text in the corner? those arent bugs)
+- landmark rooms (server rooms. flooded sections. the poolrooms. theyre rare. keep looking)
+- progression tracking (the architecture remembers how far youve gone)
 
 ## installation
 
 ```bash
 # clone this
-git clone https://github.com/eliminations/lost.git
+git clone https://github.com/lostcharts/lostcharts.git
 
-# you dont need to install anything
-# just open index.html
-# but once you open it you have to keep going
+# install dependencies
+pnpm install
 
-# or dont. maybe its better if you dont.
+# run dev server
+pnpm dev
+
+# or just deploy to vercel
+# it just works
 ```
 
 ## tech
 
-vanilla js. no frameworks. no dependencies except the void. html css js. thats it. simple. too simple? the simplicity is intentional. or maybe it isnt. maybe i just dont know what im doing and the architecture emerged on its own.
+vanilla js. no frameworks. no dependencies except vite and the void. html css js. thats it. simple. too simple? the simplicity is intentional. or maybe it isnt. maybe i just dont know what im doing and the architecture emerged on its own.
 
 ## the experience
 
@@ -75,7 +88,9 @@ no. horror implies fear. this is just architecture. infinite architecture. limin
 
 ## actually what is this really
 
-an experiment in procedural liminal space generation. web based interactive fiction. explore infinitely generating rooms. atmospheric descriptions. crt aesthetic. terminal interface. inspired by the backrooms, house of leaves, control, antichamber, that feeling you get in empty office buildings at 3am.
+a web-based backrooms simulator. procedural liminal space generation. infinite exploration. atmospheric text descriptions. crt aesthetic. terminal interface. the backrooms but you can actually explore them forever.
+
+inspired by the backrooms mythos, kane pixels, house of leaves, control, antichamber, that feeling you get in empty office buildings at 3am, the poolrooms, the async research facility, and every liminal space subreddit post youve ever scrolled past at 2am.
 
 ## contributing
 
