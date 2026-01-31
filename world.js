@@ -1563,7 +1563,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('start-btn').addEventListener('click', startGame);
     document.getElementById('menu-btn').addEventListener('click', showMenu);
     document.getElementById('close-btn').addEventListener('click', () => {
-        window.open('https://x.com/lostcharts', '_blank');
+        window.open('https://x.com/nutcasexbt', '_blank');
     });
     
     // Command input handler

@@ -102,7 +102,7 @@ do whatever you want with it. take it. clone it. modify it. make it worse. the c
 
 ## credits
 
-made by [@lostcharts](https://x.com/lostcharts)
+made by [@nutcasexbt](https://x.com/nutcasexbt)
 
 built with claude. the ai helped but the weird parts are mine. or maybe the weird parts are the ais. can you tell the difference.
 
