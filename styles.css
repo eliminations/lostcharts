@@ -198,6 +198,32 @@ body::before {
     50% { opacity: 0; }
 }
 
+/* CA Display */
+.ca-display {
+    font-family: 'VT323', monospace;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+    word-break: break-all;
+    user-select: all;
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.ca-display:hover {
+    color: var(--text-mid);
+}
+
+.ca-top {
+    margin-bottom: 1.5rem;
+}
+
+.ca-footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.03);
+}
+
 /* World Container */
 #world {
     width: 100%;
