@@ -182,6 +182,13 @@ body::before {
     letter-spacing: 0.2em;
 }
 
+.menu-nav {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
 .blink {
     animation: blink 1.5s step-end infinite;
 }

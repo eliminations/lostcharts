@@ -1565,6 +1565,15 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('close-btn').addEventListener('click', () => {
         window.open('https://x.com/nutcasexbt', '_blank');
     });
+    document.getElementById('github-btn').addEventListener('click', () => {
+        window.open('https://github.com/eliminations/lostcharts', '_blank');
+    });
+    document.getElementById('menu-x-btn').addEventListener('click', () => {
+        window.open('https://x.com/nutcasexbt', '_blank');
+    });
+    document.getElementById('menu-github-btn').addEventListener('click', () => {
+        window.open('https://github.com/eliminations/lostcharts', '_blank');
+    });
     
     // Command input handler
     const input = document.getElementById('command-input');
